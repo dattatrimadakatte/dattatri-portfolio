@@ -382,7 +382,7 @@ function App() {
                 <div className="stat-label">Master of Computer Applications</div>
               </div>
               <div className="stat-card glass-panel">
-                <div className="stat-number">3+</div>
+                <div className="stat-number">1+</div>
                 <div className="stat-label">Full-Stack Projects Built</div>
               </div>
               <div className="stat-card glass-panel">
@@ -390,7 +390,7 @@ function App() {
                 <div className="stat-label">Springboard Internship</div>
               </div>
               <div className="stat-card glass-panel">
-                <div className="stat-number">8+</div>
+                <div className="stat-number">6+</div>
                 <div className="stat-label">Core Tech Frameworks</div>
               </div>
             </div>
